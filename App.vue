@@ -3,6 +3,11 @@
 </template>
 
 <script>
+// TODO:
+// min/max X
+// min/max Y
+// size
+
 export default {}
 </script>
 
